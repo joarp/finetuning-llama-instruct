@@ -7,7 +7,7 @@ This README.md file acts as both a description of the repo but also as a diary o
 
 ## Agent Demo
 You can try all our models here:  
-**([huggingface space](https://huggingface.co/spaces/JoarP/enhancing-llama-with-icl-demo))**
+**([huggingface space](https://huggingface.co/spaces/MJ-Group/agent-and-icl-demo))**
 
 In our demo we include the following models:
 - Default *Llama-3.2-3B-Instruct*
