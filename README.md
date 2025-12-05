@@ -25,6 +25,14 @@ Below we provide an example conversation from our LIVE weather assistant:
 
 ![Feature importance](assets/live_example.png)
 
+Here is the difference between a normal chatbot and our wiki researcher that has access to up to date information.
+
+**Normal chatbot**
+![Feature importance](assets/normal.png)
+
+**Wiki researcher**
+![Feature importance](assets/wiki.png)
+
 In our agentic framwork we had to limit ourselfes to use an agentic framwork with a maximum of two LLM calls per user prompt. We would have like to use a loop but our model was simply too slow on CPU to make the chatbot demo work in a reasonable time with such an implementation. We could easily adapt the code to use a loop but then a fast LLM would be needed, e.g. though OpenAI:s API, which was not the point of this task.
 
 For the exact details of the implementation of the agent we refer to the code in the **([huggingface space](https://huggingface.co/spaces/MJ-Group/agent-and-icl-demo/))**.
