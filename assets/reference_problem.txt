@@ -1,0 +1,44 @@
+🎯 PROMPT:
+Solve the following math problem step-by-step.
+Simplify your answer as much as possible. Present your final answer as \boxed{Your Answer}.
+the volume of a cube is 1000 cc . find its surface .
+
+📘 REFERENCE ANSWER:
+Step 1: The volume of a cube is given by the formula V = s^3, where s is the length of the side of the cube.
+Step 2: We need to find the side length (s) of the cube, so first let's rearrange the formula to solve for s: s = V^(1/3).
+Step 3: Substitute the given volume of 1000 cc into the formula to find the side length: s = 1000^(1/3).
+
+Answer:
+\boxed{10}
+
+🤖 BASE MODEL ANSWER:
+To find the surface area of a cube, we need to know the length of one side of the cube. Since the volume of the cube is given as 1000 cc, we can find the length of one side by taking the cube root of the volume.
+
+Step 1: Find the length of one side of the cube.
+
+Volume = side^3
+1000 = side^3
+side = ∛1000
+side = 10
+
+Step 2: Now that we have the length of one side, we can find the surface area of the cube.
+
+Surface Area = 6 * side^2
+= 6 * 10^2
+= 6 * 100
+= 600
+
+So, the surface area of the cube is 600 square units.
+
+\boxed{600}
+
+🚀 FINETUNED MODEL ANSWER:
+Step 1: First, let's recall the formulas for the volume and surface area of a cube. The volume of a cube is given by V = s^3, where s is the length of the side of the cube. The surface area of a cube is given by A = 6s^2.
+Step 2: We are given that the volume of the cube is 1000 cc. So, we can use the volume formula to find the length of the side of the cube. s = V^(1/3) = 1000^(1/3) = 10.
+Step 3: Now that we have the length of the side of the cube, we can use the surface area formula to find the surface area of the cube. A = 6s^2 = 6 * 10^2 = 600.
+
+Answer:
+\boxed{600}
+
+--------------------------------------------------------------------------------
+
